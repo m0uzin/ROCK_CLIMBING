@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ADD_ROUTES</string>
+    <string-array name="difficulty">
+        <item>A</item>
+        <item>B</item>
+
+    </string-array>
+
+    <string-array name="measure">
+        <item>m</item>
+        <item>ft</item>
+
+    </string-array>
+
+    <string-array name="climbing_method">
+        <item>sport</item>
+        <item>classic</item>
+
+    </string-array>
+</resources>
